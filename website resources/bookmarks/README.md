@@ -1,4 +1,5 @@
 # Bookmarks
+
 ## Help Sites and Testing Tools
 
 ## Color Tools & Fonts
@@ -33,6 +34,18 @@ Identify fonts within images or screenshots using an AI tool by MyFonts.com.
 
 [FontSquirrel](https://www.fontsquirrel.com/) - 100% free fonts for personal or commercial use
 
-DaFont - Free fonts for download and use with image and graphics programs
+[DaFont](https://www.dafont.com/) - Free fonts for download and use with image and graphics programs
 
-Picas - free logo creator using Google fonts
+[Picas](https://picas.vercel.app/) - free logo creator using Google fonts
+
+## Images, Backgrounds and Related Tools
+
+[Convert .webp images to other formats](https://www.freeconvert.com/image-converter)
+
+[CSS Gradients](https://cssgradient.io/) - CSS code generator for gradients and other color tools.
+
+[Gradient Generator](https://www.generateit.net/gradient/) - A free online tool to build gradient images for backgrounds.
+
+[IconFinder](https://www.iconfinder.com/social-media-icons?price=free) - social icons and more, free and for sale
+
+[IconShock](https://www.iconshock.com/icon_sets/) - more icon sets, free and for sale
