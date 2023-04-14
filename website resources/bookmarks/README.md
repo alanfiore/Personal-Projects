@@ -2,6 +2,14 @@
 
 ## Help Sites and Testing Tools
 
+[CSS Lint: CSS Checking Tool](http://csslint.net/) (find potential errors)
+
+[HTML, CSS and Link Checker Tools](https://w3c.github.io/developers/tools/#tools) from the W3C
+
+[HTML Entity Encoder](https://www.web2generators.com/html-based-tools/online-html-entities-encoder-and-decoder) - an online tool to replace special characters in text with HTML entity codes. It may miss a few, so always double-check after using.
+
+
+
 ## Color Tools & Fonts
 
 1. [HTML Named Colors & Related Codes Reference](https://htmlcolorcodes.com/color-names/) - a list of named colors that may be specified using "English language" names and their equivalent hexadecimal and RGB color codes.
