@@ -6,17 +6,20 @@ body {
     color: white;
     text-align: center;
     font-family: Garamond, Georgia, serif;
-    font-size: 45px;
+    font-size: 100px;
     font-weight: 100;
+    margin-top: 280px;
+    letter-spacing: 5px;
 
   }
   
   header {
     color: white;
     text-align: center;
-    font-family: Garamond, Georgia, serif; 
-    font-size: 40px;
-    font-weight: 400;
+    font-family: Garamond, Georgia, fantasy; 
+    font-size: 100px;
+    font-weight: 100;
+    margin: 50px;
     
 
   }
@@ -27,4 +30,10 @@ body {
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
+  }
+
+  .image-container {
+      text-align: center;
+      margin-top: 200px;
+      
   }
