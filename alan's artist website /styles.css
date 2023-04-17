@@ -1,5 +1,9 @@
 body {
     background-color: black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 80px;
   }
   
   h1 {
@@ -16,19 +20,21 @@ body {
   header {
     color: white;
     text-align: center;
-    font-family: Garamond, Georgia, fantasy; 
-    font-size: 100px;
+    font-family: Baskerville, serif; 
+    font-size: 120px;
     font-weight: 100;
-    margin: 50px;
+    margin: 25px;
     
 
   }
   p {
-    font-family: verdana;
-    font-size: 40px;
+    color: white;
+    font-family: Baskerville, serif;
+    text-align: center;
+    font-size: 45px;
     margin-top: 100px;
     margin-bottom: 100px;
-    margin-right: 150px;
+    margin-right: 80px;
     margin-left: 80px;
   }
 
@@ -37,3 +43,22 @@ body {
       margin-top: 200px;
       
   }
+
+  .most-recent-project-button {
+    text-align: center;
+  }
+  .listen-button {
+    font-family: 'Times New Roman', Times, serif;
+    width: 450px;
+    height: 110px;
+    font-size: 40px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+
+  }
+  .listen-button:hover {
+    background-color: lightblue;
+  }
+
